@@ -18,6 +18,7 @@ export default {
         primary: "#021F5B",
         light: "#F6F1F1",
         green: "#D2DF84",
+        backbrown: "#150303",
       },
     },
   },

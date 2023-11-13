@@ -30,6 +30,10 @@ Route::get('/travel-grant', function () {
     return view('travel-grant');
 });
 
+Route::get('/merge', function () {
+    return view('merge');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

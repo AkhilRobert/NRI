@@ -28,7 +28,7 @@
     <li><a target="_blank" href="https://www.annauniv.edu/cir/images/fcsep.jpg">Student exchange program</a></li>
     <li><a href="#">travel grant</a></li>
     <li><a href="#">international hostels</a></li>
-    <li><a href="#">merge</a></li>
+    <li><a href="/merge">merge</a></li>
   </ul>
 </nav>
 
@@ -43,6 +43,6 @@
         program</a></li>
     <li class="link"><a href="/travel-grant">travel grant</a></li>
     <li class="link"><a href="#">international hostels</a></li>
-    <li class="link"><a href="#">merge</a></li>
+    <li class="link"><a href="/merge">merge</a></li>
   </ul>
 </nav>
