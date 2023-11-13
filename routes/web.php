@@ -22,6 +22,10 @@ Route::get('/director-desk', function () {
     return view('director-desk');
 });
 
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
