@@ -26,6 +26,10 @@ Route::get('/about-us', function () {
     return view('about-us');
 });
 
+Route::get('/travel-grant', function () {
+    return view('travel-grant');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
