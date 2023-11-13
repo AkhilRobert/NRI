@@ -22,7 +22,7 @@
     x-transition:enter-end="opacity-100 scale-100" x-transition:leave="transition ease-in duration-100"
     x-transition:leave-start="opacity-100 scale-90" x-transition:leave-end="opacity-0 scale-100">
     <li><a href="/">Home</a></li>
-    <li><a href="#">Director's Desk</a></li>
+    <li><a href="/director-desk">Director's Desk</a></li>
     <li><a href="#">About us</a></li>
     <li><a href="#">MOU</a></li>
     <li><a target="_blank" href="https://www.annauniv.edu/cir/images/fcsep.jpg">Student exchange program</a></li>
@@ -36,7 +36,7 @@
 <nav class="hidden md:block m-4">
   <ul class="mt-6 flex justify-around">
     <li class="link"><a href="/">Home</a></li>
-    <li class="link"><a href="#">Director's Desk</a></li>
+    <li class="link"><a href="/director-desk">Director's Desk</a></li>
     <li class="link"><a href="#">About us</a></li>
     <li class="link"><a href="#">MOU</a></li>
     <li class="link"><a target="_blank" href="https://www.annauniv.edu/cir/images/fcsep.jpg">Student exchange
